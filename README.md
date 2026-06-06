@@ -1,6 +1,3 @@
-# Cloud-Atomation-Lab
-# Cloud Automation Lab
-
 ## Overview
 This repository is a personal lab for learning and practicing Infrastructure as Code (IaC) and IT automation.
 
